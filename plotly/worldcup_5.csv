@@ -1,0 +1,737 @@
+,Unnamed: 0,nation,player,club,club_country
+0,0,Norway,0, Lillestrøm,Norway
+1,1,Norway,1, Inter Milan,Italy
+2,2,Norway,2, Rosenborg,Norway
+3,3,Norway,3, Bayern Munich,Germany
+4,4,Norway,4, Brighton & Hove Albion,England
+5,5,Norway,5, Chelsea,England
+6,6,Norway,6, Barcelona,Spain
+7,7,Norway,7, Manchester United,England
+8,8,Norway,8, Vålerenga,Norway
+9,9,Norway,9, Barcelona,Spain
+10,10,Norway,10, Chelsea,England
+11,11,Norway,11, Vålerenga,Norway
+12,12,Norway,12, Vålerenga,Norway
+13,13,Norway,13, Lyon,France
+14,14,Norway,14, Reading,England
+15,15,Norway,15, Rosenborg,Norway
+16,16,Norway,16, BK Häcken,Sweden
+17,17,Norway,17, Arsenal,England
+18,18,Norway,18, Brann,Norway
+19,19,Norway,19, Roma,Italy
+20,20,Norway,20, Rosenborg,Norway
+21,21,Norway,21, Roma,Italy
+22,22,Norway,22, Brann,Norway
+23,0,New Zealand,0, IFK Norrköping,Sweden
+24,1,New Zealand,1, Tottenham Hotspur,England
+25,2,New Zealand,2, Melbourne Victory,Australia
+26,3,New Zealand,3, Leicester City,England
+27,4,New Zealand,4, Wellington Phoenix,Other
+28,5,New Zealand,5, Western Sydney Wanderers,Australia
+29,6,New Zealand,6, Angel City,United States
+30,7,New Zealand,7, HB Køge,Other
+31,8,New Zealand,8, Arizona State Sun Devils,United States
+32,9,New Zealand,9, Christchurch United,Other
+33,10,New Zealand,10,Scotland Celtic,Other
+34,11,New Zealand,11, Wellington Phoenix,Other
+35,12,New Zealand,12, Brighton & Hove Albion,England
+36,13,New Zealand,13, Melbourne City,Australia
+37,14,New Zealand,14, Wellington Phoenix,Other
+38,15,New Zealand,15,Finland Åland United,Other
+39,16,New Zealand,16, Melbourne City,Australia
+40,17,New Zealand,17, Canberra United,Australia
+41,18,New Zealand,18, Perth Glory,Australia
+42,19,New Zealand,19, Brisbane Roar,Australia
+43,20,New Zealand,20,Scotland Rangers,Other
+44,21,New Zealand,21, Wellington Phoenix,Other
+45,22,New Zealand,22, Aston Villa,England
+46,0,Switzerland,0, Real Betis,Spain
+47,1,Switzerland,1, Zürich,Switzerland
+48,2,Switzerland,2, Bayer Leverkusen,Germany
+49,3,Switzerland,3, Servette,Switzerland
+50,4,Switzerland,4, Arsenal,England
+51,5,Switzerland,5, Eintracht Frankfurt,Germany
+52,6,Switzerland,6, Bayer Leverkusen,Germany
+53,7,Switzerland,7, Zürich,Switzerland
+54,8,Switzerland,8, Barcelona,Spain
+55,9,Switzerland,9, Paris Saint-Germain,France
+56,10,Switzerland,10, Servette,Switzerland
+57,11,Switzerland,11, Levante,Spain
+58,12,Switzerland,12, Arsenal,England
+59,13,Switzerland,13, Zürich,Switzerland
+60,14,Switzerland,14, 1899 Hoffenheim,Germany
+61,15,Switzerland,15, Servette,Switzerland
+62,16,Switzerland,16, Zürich,Switzerland
+63,17,Switzerland,17, Levante,Spain
+64,18,Switzerland,18, Paris FC,France
+65,19,Switzerland,19, Zürich,Switzerland
+66,20,Switzerland,20, Zürich,Switzerland
+67,21,Switzerland,21, Dijon,France
+68,22,Switzerland,22, Aston Villa,England
+69,0,Philippines,0, So Cal Union,United States
+70,1,Philippines,1, Blacktown City,Australia
+71,2,Philippines,2, IFK Kalmar,Sweden
+72,3,Philippines,3, Western United,Australia
+73,4,Philippines,4, Kaya–Iloilo,Other
+74,5,Philippines,5,Iceland Þór/KA,Other
+75,6,Philippines,6, Western Sydney Wanderers,Australia
+76,7,Philippines,7, KIL/Hemne,Norway
+77,8,Philippines,8, West Virginia Mountaineers,United States
+78,9,Philippines,9, So Cal Union,United States
+79,10,Philippines,10, Mt Druitt Town Rangers,Australia
+80,11,Philippines,11,Unattached,Other
+81,12,Philippines,12, Western United,Australia
+82,13,Philippines,13, Stabæk,Norway
+83,14,Philippines,14, Blacktown Spartans,Australia
+84,15,Philippines,15,Unattached,Other
+85,16,Philippines,16, Pacific Northwest SC,United States
+86,17,Philippines,17, Los Angeles Breakers,United States
+87,18,Philippines,18,Iceland Þór/KA,Other
+88,19,Philippines,19,Serbia Red Star Belgrade,Other
+89,20,Philippines,20, Piteå,Sweden
+90,21,Philippines,21, Central Coast Mariners,Australia
+91,22,Philippines,22, Santos,Brazil
+92,0,Australia,0, Brighton & Hove Albion,England
+93,1,Australia,1, Leicester City,England
+94,2,Australia,2, BK Häcken,Sweden
+95,3,Australia,3, Vittsjö GIK,Sweden
+96,4,Australia,4, Sydney FC,Australia
+97,5,Australia,5, Everton,England
+98,6,Australia,6, Arsenal,England
+99,7,Australia,7, Racing Louisville,United States
+100,8,Australia,8, Arsenal,England
+101,9,Australia,9, San Diego Wave,United States
+102,10,Australia,10, Manchester City,England
+103,11,Australia,11, Rosengård,Sweden
+104,12,Australia,12, Brann,Norway
+105,13,Australia,13, Manchester City,England
+106,14,Australia,14, Western Sydney Wanderers,Australia
+107,15,Australia,15, Manchester City,England
+108,16,Australia,16, Tottenham Hotspur,England
+109,17,Australia,17, West Ham United,England
+110,18,Australia,18, Vittsjö GIK,Sweden
+111,19,Australia,19, Chelsea,England
+112,20,Australia,20, Lyon,France
+113,21,Australia,21, Vittsjö GIK,Sweden
+114,22,Australia,22, Hammarby IF,Sweden
+115,0,Canada,0, San Diego Wave,United States
+116,1,Canada,1, Houston Dash,United States
+117,2,Canada,2, Chelsea,England
+118,3,Canada,3, Tottenham Hotspur,England
+119,4,Canada,4, OL Reign,United States
+120,5,Canada,5, Reading,England
+121,6,Canada,6, Juventus,Italy
+122,7,Canada,7, Manchester United,England
+123,8,Canada,8, OL Reign,United States
+124,9,Canada,9, Paris Saint-Germain,France
+125,10,Canada,10, Kristianstads DFF,Sweden
+126,11,Canada,11, Portland Thorns,United States
+127,12,Canada,12, Houston Dash,United States
+128,13,Canada,13, Lyon,France
+129,14,Canada,14, Houston Dash,United States
+130,15,Canada,15, Washington Spirit,United States
+131,16,Canada,16, Chelsea,England
+132,17,Canada,17, Arsenal,England
+133,18,Canada,18, Manchester United,England
+134,19,Canada,19, Benfica,Portugal
+135,20,Canada,20, USC Trojans,United States
+136,21,Canada,21, Torreense,Portugal
+137,22,Canada,22, Penn State Nittany Lions,United States
+138,0,Nigeria,0,Turkey Hakkarigücü Spor,Other
+139,1,Nigeria,1,unattached,Other
+140,2,Nigeria,2, Alavés,Spain
+141,3,Nigeria,3,Turkey Beşiktaş,Other
+142,4,Nigeria,4, Abia Angels,Other
+143,5,Nigeria,5, NJ/NY Gotham FC,United States
+144,6,Nigeria,6, Sevilla,Spain
+145,7,Nigeria,7, Barcelona,Spain
+146,8,Nigeria,8, Wuhan Jianghan University,China
+147,9,Nigeria,9, Benfica,Portugal
+148,10,Nigeria,10, Granadilla Tenerife,Spain
+149,11,Nigeria,11, Racing Louisville,United States
+150,12,Nigeria,12, Rivers Angels,Other
+151,13,Nigeria,13, Reims,France
+152,14,Nigeria,14, Atlético Madrid,Spain
+153,15,Nigeria,15, Paris FC,France
+154,16,Nigeria,16,Russia CSKA Moscow,Other
+155,17,Nigeria,17, Rosengård,Sweden
+156,18,Nigeria,18, Florida State Seminoles,United States
+157,19,Nigeria,19, Reims,France
+158,20,Nigeria,20, Saint-Étienne,France
+159,21,Nigeria,21, Houston Dash,United States
+160,22,Nigeria,22, Saint-Étienne,France
+161,0,Ireland,0, Everton,England
+162,1,Ireland,1,Scotland Celtic,Other
+163,2,Ireland,2, Bristol City,England
+164,3,Ireland,3, Birmingham City,England
+165,4,Ireland,4, Liverpool,England
+166,5,Ireland,5, Brighton & Hove Albion,England
+167,6,Ireland,6, Reading,England
+168,7,Ireland,7, Aston Villa,England
+169,8,Ireland,8, Turbine Potsdam,Germany
+170,9,Ireland,9, North Carolina Courage,United States
+171,10,Ireland,10, Arsenal,England
+172,11,Ireland,11, London City Lionesses,England
+173,12,Ireland,12,Republic of  Shamrock Rovers,Other
+174,13,Ireland,13, Florida State Seminoles,United States
+175,14,Ireland,14, Birmingham City,England
+176,15,Ireland,15, Reading,England
+177,16,Ireland,16, NJ/NY Gotham FC,United States
+178,17,Ireland,17, London City Lionesses,England
+179,18,Ireland,18,Republic of  Shamrock Rovers,Other
+180,19,Ireland,19, Washington Spirit,United States
+181,20,Ireland,20,Scotland Hearts,Other
+182,21,Ireland,21, West Ham United,England
+183,22,Ireland,22, Brighton & Hove Albion,England
+184,0,Costa Rica,0, UCF Knights,United States
+185,1,Costa Rica,1,Iceland Þór/KA,Other
+186,2,Costa Rica,2, Alajuelense,Costa Rica
+187,3,Costa Rica,3, Saprissa,Costa Rica
+188,4,Costa Rica,4,Mexico Monterrey,Other
+189,5,Costa Rica,5, Independiente Santa Fe,Colombia
+190,6,Costa Rica,6, Bordeaux,France
+191,7,Costa Rica,7, Saprissa,Costa Rica
+192,8,Costa Rica,8,Mexico Monterrey,Other
+193,9,Costa Rica,9, Saprissa,Costa Rica
+194,10,Costa Rica,10, Portland Thorns,United States
+195,11,Costa Rica,11, Saprissa,Costa Rica
+196,12,Costa Rica,12, Asheville City,United States
+197,13,Costa Rica,13,Scotland Glasgow City,Other
+198,14,Costa Rica,14, Sporting,Costa Rica
+199,15,Costa Rica,15, Saprissa,Costa Rica
+200,16,Costa Rica,16,Mexico Santos Laguna,Other
+201,17,Costa Rica,17, Saprissa,Costa Rica
+202,18,Costa Rica,18, Alajuelense,Costa Rica
+203,19,Costa Rica,19, Alajuelense,Costa Rica
+204,20,Costa Rica,20, Alajuelense,Costa Rica
+205,21,Costa Rica,21, Saprissa,Costa Rica
+206,22,Costa Rica,22, Sporting,Costa Rica
+207,0,Japan,0, INAC Kobe Leonessa,Japan
+208,1,Japan,1, West Ham United,England
+209,2,Japan,2, Roma,Italy
+210,3,Japan,3, Bayern Munich,Germany
+211,4,Japan,4, INAC Kobe Leonessa,Japan
+212,5,Japan,5, Portland Thorns,United States
+213,6,Japan,6, MyNavi Sendai,Japan
+214,7,Japan,7, Urawa Reds,Japan
+215,8,Japan,8, Tokyo Verdy Beleza,Japan
+216,9,Japan,9, Liverpool,England
+217,10,Japan,10, INAC Kobe Leonessa,Japan
+218,11,Japan,11, Urawa Reds,Japan
+219,12,Japan,12, Angel City,United States
+220,13,Japan,13, Manchester City,England
+221,14,Japan,14, Tokyo Verdy Beleza,Japan
+222,15,Japan,15, West Ham United,England
+223,16,Japan,16, Urawa Reds,Japan
+224,17,Japan,17, Tokyo Verdy Beleza,Japan
+225,18,Japan,18, INAC Kobe Leonessa,Japan
+226,19,Japan,19, Hammarby IF,Sweden
+227,20,Japan,20, Albirex Niigata,Japan
+228,21,Japan,21, JEF United Chiba,Japan
+229,22,Japan,22, Urawa Reds,Japan
+230,0,Spain,0, Real Madrid,Spain
+231,1,Spain,1, Manchester United,England
+232,2,Spain,2, Real Madrid,Spain
+233,3,Spain,3, Barcelona,Spain
+234,4,Spain,4, Real Madrid,Spain
+235,5,Spain,5, Barcelona,Spain
+236,6,Spain,6, Atlético Madrid,Spain
+237,7,Spain,7, Barcelona,Spain
+238,8,Spain,8, Real Madrid,Spain
+239,9,Spain,9,Mexico Pachuca,Other
+240,10,Spain,10, Barcelona,Spain
+241,11,Spain,11, Athletic Bilbao,Spain
+242,12,Spain,12, Valencia,Spain
+243,13,Spain,13, Barcelona,Spain
+244,14,Spain,14, Atlético Madrid,Spain
+245,15,Spain,15, Barcelona,Spain
+246,16,Spain,16, Levante,Spain
+247,17,Spain,17, Barcelona,Spain
+248,18,Spain,18, Real Madrid,Spain
+249,19,Spain,19, Real Madrid,Spain
+250,20,Spain,20, Real Madrid,Spain
+251,21,Spain,21, Real Madrid,Spain
+252,22,Spain,22, Barcelona,Spain
+253,0,Zambia,0,Kazakhstan Tomiris-Turan,Other
+254,1,Zambia,1, YASA,Zambia
+255,2,Zambia,2, Green Buffaloes,Zambia
+256,3,Zambia,3, Red Arrows,Zambia
+257,4,Zambia,4, Red Arrows,Zambia
+258,5,Zambia,5, Red Arrows,Zambia
+259,6,Zambia,6, Red Arrows,Zambia
+260,7,Zambia,7, Shanghai Shengli,China
+261,8,Zambia,8, Zaragoza CFF,Spain
+262,9,Zambia,9, Elite Ladies,Zambia
+263,10,Zambia,10, Shanghai Shengli,China
+264,11,Zambia,11, ZISD Women,Zambia
+265,12,Zambia,12,Kazakhstan BIIK Shymkent,Other
+266,13,Zambia,13,Kazakhstan BIIK Shymkent,Other
+267,14,Zambia,14, Green Buffaloes,Zambia
+268,15,Zambia,15, ZESCO Ndola Girls,Zambia
+269,16,Zambia,16, Madrid CFF,Spain
+270,17,Zambia,17, Nkwazi Queens,Zambia
+271,18,Zambia,18, Elite Ladies,Zambia
+272,19,Zambia,19,Kazakhstan BIIK Shymkent,Other
+273,20,Zambia,20, ZESCO Ndola Girls,Zambia
+274,21,Zambia,21, BUSA,Zambia
+275,22,Zambia,22, ZESCO Ndola Girls,Zambia
+276,0,China,0, Shanghai Shengli,China
+277,1,China,1, Paris Saint-Germain,France
+278,2,China,2, Jiangsu,China
+279,3,China,3, Shanghai Shengli,China
+280,4,China,4, Wuhan Jianghan University,China
+281,5,China,5, Shanghai Shengli,China
+282,6,China,6, Racing Louisville,United States
+283,7,China,7, Wuhan Jianghan University,China
+284,8,China,8,Scotland Celtic,Other
+285,9,China,9, Wuhan Jianghan University,China
+286,10,China,10, Wuhan Jianghan University,China
+287,11,China,11, Jiangsu,China
+288,12,China,12, Levante Las Planas,Spain
+289,13,China,13, Wuhan Jianghan University,China
+290,14,China,14, Meizhou Huijun,China
+291,15,China,15, Wuhan Jianghan University,China
+292,16,China,16, Canberra United,Australia
+293,17,China,17, Shanghai Shengli,China
+294,18,China,18, Grasshoppers,Switzerland
+295,19,China,19, Shanghai Shengli,China
+296,20,China,20, Wuhan Jianghan University,China
+297,21,China,21, Beijing,China
+298,22,China,22, Changchun Dazhong Zhuoyue,China
+299,0,Denmark,0, Rosenborg,Norway
+300,1,Denmark,1, Harvard Crimson,United States
+301,2,Denmark,2, Vålerenga,Norway
+302,3,Denmark,3, Everton,England
+303,4,Denmark,4, Hammarby IF,Sweden
+304,5,Denmark,5, Everton,England
+305,6,Denmark,6, Reading,England
+306,7,Denmark,7, West Ham United,England
+307,8,Denmark,8, Paris Saint-Germain,France
+308,9,Denmark,9, Chelsea,England
+309,10,Denmark,10, Everton,England
+310,11,Denmark,11, Arsenal,England
+311,12,Denmark,12, AC Milan,Italy
+312,13,Denmark,13, Everton,England
+313,14,Denmark,14, Inter Milan,Italy
+314,15,Denmark,15, Brøndby,Other
+315,16,Denmark,16, North Carolina Courage,United States
+316,17,Denmark,17, Montpellier,France
+317,18,Denmark,18, Vålerenga,Norway
+318,19,Denmark,19, Lyon,France
+319,20,Denmark,20, North Carolina Courage,United States
+320,21,Denmark,21, FC Thy-Thisted Q,Other
+321,22,Denmark,22, Real Madrid,Spain
+322,0,England,0, Manchester United,England
+323,1,England,1, Barcelona,Spain
+324,2,England,2, Chelsea,England
+325,3,England,3, Barcelona,Spain
+326,4,England,4, Manchester City,England
+327,5,England,5, Chelsea,England
+328,6,England,6, Chelsea,England
+329,7,England,7, Bayern Munich,Germany
+330,8,England,8, Aston Villa,England
+331,9,England,9, Manchester United,England
+332,10,England,10, Manchester City,England
+333,11,England,11, Aston Villa,England
+334,12,England,12, Aston Villa,England
+335,13,England,13, Arsenal,England
+336,14,England,14, Manchester City,England
+337,15,England,15, Chelsea,England
+338,16,England,16, Manchester City,England
+339,17,England,17, Manchester City,England
+340,18,England,18, Tottenham Hotspur,England
+341,19,England,19, Manchester United,England
+342,20,England,20, Manchester City,England
+343,21,England,21, Brighton & Hove Albion,England
+344,22,England,22, Manchester United,England
+345,0,Haiti,0, Miami City,United States
+346,1,Haiti,1, Grenoble,France
+347,2,Haiti,2, Grenoble,France
+348,3,Haiti,3, Brest,France
+349,4,Haiti,4, Grenoble,France
+350,5,Haiti,5, Reims,France
+351,6,Haiti,6, Fleury,France
+352,7,Haiti,7, Fordham Rams,United States
+353,8,Haiti,8, Grenoble,France
+354,9,Haiti,9, Montpellier,France
+355,10,Haiti,10, Nantes,France
+356,11,Haiti,11, Little  FC,United States
+357,12,Haiti,12, Brest,France
+358,13,Haiti,13, Exafoot,Other
+359,14,Haiti,14, Grenoble,France
+360,15,Haiti,15, George Mason Patriots,United States
+361,16,Haiti,16,Russia Zenit St. Petersburg,Other
+362,17,Haiti,17, Weston FC,United States
+363,18,Haiti,18, Issy,France
+364,19,Haiti,19, Montpellier,France
+365,20,Haiti,20, Louisiana Ragin' Cajuns,United States
+366,21,Haiti,21, Dijon,France
+367,22,Haiti,22, Georgetown Hoyas,United States
+368,0,Netherlands,0, Twente,Other
+369,1,Netherlands,1, VfL Wolfsburg,Germany
+370,2,Netherlands,2, Inter Milan,Italy
+371,3,Netherlands,3, AC Milan,Italy
+372,4,Netherlands,4, Atlético Madrid,Spain
+373,5,Netherlands,5, VfL Wolfsburg,Germany
+374,6,Netherlands,6, Juventus,Italy
+375,7,Netherlands,7, Ajax,Other
+376,8,Netherlands,8, Everton,England
+377,9,Netherlands,9, Lyon,France
+378,10,Netherlands,10, Paris Saint-Germain,France
+379,11,Netherlands,11, Bayer Leverkusen,Germany
+380,12,Netherlands,12, Twente,Other
+381,13,Netherlands,13, Paris Saint-Germain,France
+382,14,Netherlands,14, Twente,Other
+383,15,Netherlands,15, Ajax,Other
+384,16,Netherlands,16, Arsenal,England
+385,17,Netherlands,17, Manchester City,England
+386,18,Netherlands,18, Twente,Other
+387,19,Netherlands,19, VfL Wolfsburg,Germany
+388,20,Netherlands,20, Lyon,France
+389,21,Netherlands,21, PSV Eindhoven,Other
+390,22,Netherlands,22, Feyenoord,Other
+391,0,Portugal,0, Servette,Switzerland
+392,1,Portugal,1, Benfica,Portugal
+393,2,Portugal,2, Benfica,Portugal
+394,3,Portugal,3, Benfica,Portugal
+395,4,Portugal,4, Parma,Italy
+396,5,Portugal,5, Real Sociedad,Spain
+397,6,Portugal,6, Braga,Portugal
+398,7,Portugal,7, Benfica,Portugal
+399,8,Portugal,8, Sporting CP,Portugal
+400,9,Portugal,9, Benfica,Portugal
+401,10,Portugal,10, Levante,Spain
+402,11,Portugal,11, Braga,Portugal
+403,12,Portugal,12, Alavés,Spain
+404,13,Portugal,13, Braga,Portugal
+405,14,Portugal,14, Benfica,Portugal
+406,15,Portugal,15, Sporting CP,Portugal
+407,16,Portugal,16, Benfica,Portugal
+408,17,Portugal,17, Braga,Portugal
+409,18,Portugal,18, Sevilla,Spain
+410,19,Portugal,19, Benfica,Portugal
+411,20,Portugal,20, Sporting CP,Portugal
+412,21,Portugal,21, Benfica,Portugal
+413,22,Portugal,22, Marítimo,Portugal
+414,0,United States,0, Chicago Red Stars,United States
+415,1,United States,1, Washington Spirit,United States
+416,2,United States,2, OL Reign,United States
+417,3,United States,3, San Diego Wave,United States
+418,4,United States,4, NJ/NY Gotham FC,United States
+419,5,United States,5, NJ/NY Gotham FC,United States
+420,6,United States,6, Angel City,United States
+421,7,United States,7, Angel City,United States
+422,8,United States,8, Racing Louisville,United States
+423,9,United States,9, Lyon,France
+424,10,United States,10, Portland Thorns,United States
+425,11,United States,11, OL Reign,United States
+426,12,United States,12, San Diego Wave,United States
+427,13,United States,13, OL Reign,United States
+428,14,United States,14, OL Reign,United States
+429,15,United States,15, OL Reign,United States
+430,16,United States,16, Washington Spirit,United States
+431,17,United States,17, North Carolina Courage,United States
+432,18,United States,18, Portland Thorns,United States
+433,19,United States,19, Washington Spirit,United States
+434,20,United States,20, Washington Spirit,United States
+435,21,United States,21, NJ/NY Gotham FC,United States
+436,22,United States,22, North Carolina Courage,United States
+437,0,Vietnam,0, Hanoi,Vietnam
+438,1,Vietnam,1, Than KSVN,Vietnam
+439,2,Vietnam,2, Ho Chi Minh City,Vietnam
+440,3,Vietnam,3, Ho Chi Minh City,Vietnam
+441,4,Vietnam,4, Hanoi,Vietnam
+442,5,Vietnam,5, Thai Nguyen T&T,Vietnam
+443,6,Vietnam,6, Phong Phu Ha Nam,Vietnam
+444,7,Vietnam,7, Ho Chi Minh City,Vietnam
+445,8,Vietnam,8, Länk Vilaverdense,Portugal
+446,9,Vietnam,9, Hanoi,Vietnam
+447,10,Vietnam,10, Hanoi,Vietnam
+448,11,Vietnam,11, Hanoi,Vietnam
+449,12,Vietnam,12, Than KSVN,Vietnam
+450,13,Vietnam,13, Ho Chi Minh City,Vietnam
+451,14,Vietnam,14, Than KSVN,Vietnam
+452,15,Vietnam,15, Than KSVN,Vietnam
+453,16,Vietnam,16, Ho Chi Minh City,Vietnam
+454,17,Vietnam,17, Hanoi,Vietnam
+455,18,Vietnam,18, Hanoi,Vietnam
+456,19,Vietnam,19, Than KSVN,Vietnam
+457,20,Vietnam,20, Hanoi,Vietnam
+458,21,Vietnam,21, Thai Nguyen T&T,Vietnam
+459,22,Vietnam,22, Ho Chi Minh City,Vietnam
+460,0,Brazil,0, Flamengo,Brazil
+461,1,Brazil,1, Levante,Spain
+462,2,Brazil,2, Real Madrid,Spain
+463,3,Brazil,3, Arsenal,England
+464,4,Brazil,4, Corinthians,Brazil
+465,5,Brazil,5, Corinthians,Brazil
+466,6,Brazil,6, Roma,Italy
+467,7,Brazil,7, Benfica,Portugal
+468,8,Brazil,8, Kansas City Current,United States
+469,9,Brazil,9, Orlando Pride,United States
+470,10,Brazil,10, Orlando Pride,United States
+471,11,Brazil,11, Corinthians,Brazil
+472,12,Brazil,12, NJ/NY Gotham FC,United States
+473,13,Brazil,13, Madrid CFF,Spain
+474,14,Brazil,14, Corinthians,Brazil
+475,15,Brazil,15, Palmeiras,Brazil
+476,16,Brazil,16, Racing Louisville,United States
+477,17,Brazil,17, Barcelona,Spain
+478,18,Brazil,18, Madrid CFF,Spain
+479,19,Brazil,19, OL Reign,United States
+480,20,Brazil,20, North Carolina Courage,United States
+481,21,Brazil,21, Santos,Brazil
+482,22,Brazil,22, Madrid CFF,Spain
+483,0,France,0, Guingamp,France
+484,1,France,1, Montpellier,France
+485,2,France,2, Lyon,France
+486,3,France,3, Paris Saint-Germain,France
+487,4,France,4, Paris Saint-Germain,France
+488,5,France,5, Real Madrid,Spain
+489,6,France,6, Paris Saint-Germain,France
+490,7,France,7, Paris Saint-Germain,France
+491,8,France,8, Lyon,France
+492,9,France,9, Lyon,France
+493,10,France,10, Paris Saint-Germain,France
+494,11,France,11, Paris FC,France
+495,12,France,12, Lyon,France
+496,13,France,13, Manchester United,England
+497,14,France,14, Aston Villa,England
+498,15,France,15, Juventus,Italy
+499,16,France,16, Fleury,France
+500,17,France,17, West Ham United,England
+501,18,France,18, Real Madrid,Spain
+502,19,France,19, Manchester United,England
+503,20,France,20, Paris Saint-Germain,France
+504,21,France,21, Chelsea,England
+505,22,France,22, Lyon,France
+506,0,Jamaica,0,Czech Republic Sparta Prague,Other
+507,1,Jamaica,1, Concorde Fire,United States
+508,2,Jamaica,2,Scotland Hearts,Other
+509,3,Jamaica,3, Fleury,France
+510,4,Jamaica,4, Orlando Pride,United States
+511,5,Jamaica,5, Houston Dash,United States
+512,6,Jamaica,6, Ohio State Buckeyes,United States
+513,7,Jamaica,7, Tottenham Hotspur,England
+514,8,Jamaica,8, Tennessee Volunteers,United States
+515,9,Jamaica,9, Florida State Seminoles,United States
+516,10,Jamaica,10, Manchester City,England
+517,11,Jamaica,11, Notre Dame Fighting Irish,United States
+518,12,Jamaica,12, Tottenham Hotspur,England
+519,13,Jamaica,13, Issy,France
+520,14,Jamaica,14,Hungary Ferencváros,Other
+521,15,Jamaica,15, Crystal Palace,England
+522,16,Jamaica,16, Paris Saint-Germain,France
+523,17,Jamaica,17, Levante Las Planas,Spain
+524,18,Jamaica,18, Houston Dash,United States
+525,19,Jamaica,19, London City Lionesses,England
+526,20,Jamaica,20, Chicago Red Stars,United States
+527,21,Jamaica,21,Scotland Rangers,Other
+528,22,Jamaica,22, Washington State Cougars,United States
+529,0,Panama,0, Independiente La Chorrera,Panama
+530,1,Panama,1, Jones County Bobcats,United States
+531,2,Panama,2, América de Cali,Colombia
+532,3,Panama,3, Tauro,Panama
+533,4,Panama,4, Saprissa,Costa Rica
+534,5,Panama,5, Tauro,Panama
+535,6,Panama,6, Tauro,Panama
+536,7,Panama,7, Tauro,Panama
+537,8,Panama,8, Sporting San José,Costa Rica
+538,9,Panama,9,Mexico Pachuca,Other
+539,10,Panama,10, Alajuelense,Costa Rica
+540,11,Panama,11, Tauro,Panama
+541,12,Panama,12, Washington Spirit,United States
+542,13,Panama,13, Sporting San Miguelito,Panama
+543,14,Panama,14, Rayo Vallecano,Spain
+544,15,Panama,15, Sporting San Miguelito,Panama
+545,16,Panama,16, Tauro,Panama
+546,17,Panama,17, Plaza Amador,Panama
+547,18,Panama,18, Sporting San Miguelito,Panama
+548,19,Panama,19, Alhama,Spain
+549,20,Panama,20, Herediano,Costa Rica
+550,21,Panama,21,Ecuador Ñañas,Other
+551,22,Panama,22, Marítimo,Portugal
+552,0,Argentina,0, Rosario Central,Other
+553,1,Argentina,1, Santos,Brazil
+554,2,Argentina,2, Santos,Brazil
+555,3,Argentina,3, Boca Juniors,Other
+556,4,Argentina,4, Sporting Huelva,Spain
+557,5,Argentina,5, Madrid CFF,Spain
+558,6,Argentina,6, UAI Urquiza,Other
+559,7,Argentina,7, UAI Urquiza,Other
+560,8,Argentina,8, Red Bull Bragantino,Brazil
+561,9,Argentina,9, Parma,Italy
+562,10,Argentina,10, Palmeiras,Brazil
+563,11,Argentina,11, River Plate,Other
+564,12,Argentina,12,Mexico León,Other
+565,13,Argentina,13, Boca Juniors,Other
+566,14,Argentina,14, Madrid CFF,Spain
+567,15,Argentina,15, Palmeiras,Brazil
+568,16,Argentina,16,Chile Universidad de Concepción,Other
+569,17,Argentina,17, Estudiantes (BA),Other
+570,18,Argentina,18, Orlando Pride,United States
+571,19,Argentina,19, South Alabama Jaguars,United States
+572,20,Argentina,20, Rosario Central,Other
+573,21,Argentina,21, Atlético Madrid,Spain
+574,22,Argentina,22, Huracán,Other
+575,0,Italy,0, AC Milan,Italy
+576,1,Italy,1, Fiorentina,Italy
+577,2,Italy,2, Sassuolo,Italy
+578,3,Italy,3, Roma,Italy
+579,4,Italy,4, Roma,Italy
+580,5,Italy,5, Roma,Italy
+581,6,Italy,6, Juventus,Italy
+582,7,Italy,7, Juventus,Italy
+583,8,Italy,8, Roma,Italy
+584,9,Italy,9, Juventus,Italy
+585,10,Italy,10, Roma,Italy
+586,11,Italy,11, Fiorentina,Italy
+587,12,Italy,12, Roma,Italy
+588,13,Italy,13, Como,Italy
+589,14,Italy,14, Roma,Italy
+590,15,Italy,15, Barcelona,Spain
+591,16,Italy,16, Juventus,Italy
+592,17,Italy,17, Juventus,Italy
+593,18,Italy,18, Juventus,Italy
+594,19,Italy,19, Roma,Italy
+595,20,Italy,20, Juventus,Italy
+596,21,Italy,21, Inter Milan,Italy
+597,22,Italy,22, Juventus,Italy
+598,0,South Africa,0, JVW,South Korea
+599,1,South Africa,1, Mamelodi Sundowns,South Korea
+600,2,South Africa,2, UWC,South Korea
+601,3,South Africa,3, Eibar,Spain
+602,4,South Africa,4, UWC,South Korea
+603,5,South Africa,5,Mexico Tigres UANL,Other
+604,6,South Africa,6, Mamelodi Sundowns,South Korea
+605,7,South Africa,7, Sejong Sportstoto,South Korea
+606,8,South Africa,8, JVW,South Korea
+607,9,South Africa,9,Scotland Glasgow City,Other
+608,10,South Africa,10, Racing Louisville,United States
+609,11,South Africa,11,Mexico Monterrey,Other
+610,12,South Africa,12, Mamelodi Sundowns,South Korea
+611,13,South Africa,13, Mamelodi Sundowns,South Korea
+612,14,South Africa,14, Sassuolo,Italy
+613,15,South Africa,15, Mamelodi Sundowns,South Korea
+614,16,South Africa,16, Mamelodi Sundowns,South Korea
+615,17,South Africa,17, UWC,South Korea
+616,18,South Africa,18, UWC,South Korea
+617,19,South Africa,19, JVW,South Korea
+618,20,South Africa,20, Royal AM,South Korea
+619,21,South Africa,21, TS Galaxy,South Korea
+620,22,South Africa,22, University of Pretoria,South Korea
+621,0,Sweden,0, Chelsea,England
+622,1,Sweden,1, Hammarby IF,Sweden
+623,2,Sweden,2, Juventus,Italy
+624,3,Sweden,3, Linköping FC,Sweden
+625,4,Sweden,4, BK Häcken,Sweden
+626,5,Sweden,5, Chelsea,England
+627,6,Sweden,6, Hammarby IF,Sweden
+628,7,Sweden,7, Arsenal,England
+629,8,Sweden,8, AC Milan,Italy
+630,9,Sweden,9, San Diego Wave,United States
+631,10,Sweden,10, Arsenal,England
+632,11,Sweden,11, BK Häcken,Sweden
+633,12,Sweden,12, Paris Saint-Germain,France
+634,13,Sweden,13, Everton,England
+635,14,Sweden,14, VfL Wolfsburg,Germany
+636,15,Sweden,15, Manchester City,England
+637,16,Sweden,16, Rosengård,Sweden
+638,17,Sweden,17, Barcelona,Spain
+639,18,Sweden,18, Chelsea,England
+640,19,Sweden,19, Everton,England
+641,20,Sweden,20, Örebro,Sweden
+642,21,Sweden,21, Rosengård,Sweden
+643,22,Sweden,22, BK Häcken,Sweden
+644,0,Colombia,0, Avaí,Brazil
+645,1,Colombia,1, Real Sociedad,Spain
+646,2,Colombia,2, América de Cali,Colombia
+647,3,Colombia,3, América de Cali,Colombia
+648,4,Colombia,4, Real Brasília,Brazil
+649,5,Colombia,5, Atlético Nacional,Colombia
+650,6,Colombia,6, Independiente Santa Fe,Colombia
+651,7,Colombia,7, Logroño,Spain
+652,8,Colombia,8, Levante,Spain
+653,9,Colombia,9, Atlético Madrid,Spain
+654,10,Colombia,10, América de Cali,Colombia
+655,11,Colombia,11, Independiente Medellín,Colombia
+656,12,Colombia,12, América de Cali,Colombia
+657,13,Colombia,13, Atlético Nacional,Colombia
+658,14,Colombia,14, Deportivo Pereira,Colombia
+659,15,Colombia,15, Real Brasília,Brazil
+660,16,Colombia,16, Junior,Colombia
+661,17,Colombia,17, Real Madrid,Spain
+662,18,Colombia,18, Atlético Mineiro,Brazil
+663,19,Colombia,19, Grêmio,Brazil
+664,20,Colombia,20, Valencia,Spain
+665,21,Colombia,21, Espanyol,Spain
+666,22,Colombia,22, América de Cali,Colombia
+667,0,Germany,0, VfL Wolfsburg,Germany
+668,1,Germany,1, 1899 Hoffenheim,Germany
+669,2,Germany,2, VfL Wolfsburg,Germany
+670,3,Germany,3, Eintracht Frankfurt,Germany
+671,4,Germany,4, Bayern Munich,Germany
+672,5,Germany,5, VfL Wolfsburg,Germany
+673,6,Germany,6, Bayern Munich,Germany
+674,7,Germany,7, Bayern Munich,Germany
+675,8,Germany,8, VfL Wolfsburg,Germany
+676,9,Germany,9, Eintracht Frankfurt,Germany
+677,10,Germany,10, VfL Wolfsburg,Germany
+678,11,Germany,11, Chelsea,England
+679,12,Germany,12, Lyon,France
+680,13,Germany,13, VfL Wolfsburg,Germany
+681,14,Germany,14, Eintracht Frankfurt,Germany
+682,15,Germany,15, Eintracht Frankfurt,Germany
+683,16,Germany,16, VfL Wolfsburg,Germany
+684,17,Germany,17, Chelsea,England
+685,18,Germany,18, Bayern Munich,Germany
+686,19,Germany,19, Bayern Munich,Germany
+687,20,Germany,20, Eintracht Frankfurt,Germany
+688,21,Germany,21, VfL Wolfsburg,Germany
+689,22,Germany,22, Eintracht Frankfurt,Germany
+690,0,Morocco,0, AS FAR,Other
+691,1,Morocco,1, AS FAR,Other
+692,2,Morocco,2, AS FAR,Other
+693,3,Morocco,3, Fleury,France
+694,4,Morocco,4, Lille,France
+695,5,Morocco,5, Servette,Switzerland
+696,6,Morocco,6, AS FAR,Other
+697,7,Morocco,7, Metz,France
+698,8,Morocco,8,Saudi Arabia Al Ahli,Other
+699,9,Morocco,9, AS FAR,Other
+700,10,Morocco,10, AS FAR,Other
+701,11,Morocco,11, CAK,Other
+702,12,Morocco,12, Napoli,Italy
+703,13,Morocco,13,Belgium Charleroi,Other
+704,14,Morocco,14, Europa,Spain
+705,15,Morocco,15, Guingamp,France
+706,16,Morocco,16, AS FAR,Other
+707,17,Morocco,17, Nantes,France
+708,18,Morocco,18,Belgium Club YLA,Other
+709,19,Morocco,19, RS Berkane,Other
+710,20,Morocco,20, Levante Las Planas,Spain
+711,21,Morocco,21, Cannes,France
+712,22,Morocco,22, Tottenham Hotspur,England
+713,0,South Korea,0, BK Häcken,Sweden
+714,1,South Korea,1, Suwon FC,South Korea
+715,2,South Korea,2, Incheon Hyundai Steel,South Korea
+716,3,South Korea,3, Suwon FC,South Korea
+717,4,South Korea,4, Suwon FC,South Korea
+718,5,South Korea,5, Incheon Hyundai Steel,South Korea
+719,6,South Korea,6, Incheon Hyundai Steel,South Korea
+720,7,South Korea,7, Tottenham Hotspur,England
+721,8,South Korea,8, Brighton & Hove Albion,England
+722,9,South Korea,9, Suwon FC,South Korea
+723,10,South Korea,10, Incheon Hyundai Steel,South Korea
+724,11,South Korea,11, Suwon FC,South Korea
+725,12,South Korea,12, Seoul WFC,South Korea
+726,13,South Korea,13, Suwon FC,South Korea
+727,14,South Korea,14, Hwacheon KSPO,South Korea
+728,15,South Korea,15, Incheon Hyundai Steel,South Korea
+729,16,South Korea,16, Madrid CFF,Spain
+730,17,South Korea,17, Incheon Hyundai Steel,South Korea
+731,18,South Korea,18, Players Development Academy,United States
+732,19,South Korea,19, Incheon Hyundai Steel,South Korea
+733,20,South Korea,20, Seoul WFC,South Korea
+734,21,South Korea,21, Uiduk University,South Korea
+735,22,South Korea,22, Incheon Hyundai Steel,South Korea

@@ -1,0 +1,737 @@
+,nation,player,club,club_country
+0,Norway,0, Lillestrøm,Norway
+1,Norway,1, Inter Milan,Italy
+2,Norway,2, Rosenborg,Norway
+3,Norway,3, Bayern Munich,Germany
+4,Norway,4, Brighton & Hove Albion,England
+5,Norway,5, Chelsea,England
+6,Norway,6, Barcelona,Spain
+7,Norway,7, Manchester United,England
+8,Norway,8, Vålerenga,Norway
+9,Norway,9, Barcelona,Spain
+10,Norway,10, Chelsea,England
+11,Norway,11, Vålerenga,Norway
+12,Norway,12, Vålerenga,Norway
+13,Norway,13, Lyon,France
+14,Norway,14, Reading,England
+15,Norway,15, Rosenborg,Norway
+16,Norway,16, BK Häcken,Sweden
+17,Norway,17, Arsenal,England
+18,Norway,18, Brann,Norway
+19,Norway,19, Roma,Italy
+20,Norway,20, Rosenborg,Norway
+21,Norway,21, Roma,Italy
+22,Norway,22, Brann,Norway
+0,New Zealand,0, IFK Norrköping,Sweden
+1,New Zealand,1, Tottenham Hotspur,England
+2,New Zealand,2, Melbourne Victory,Australia
+3,New Zealand,3, Leicester City,England
+4,New Zealand,4, Wellington Phoenix,New
+5,New Zealand,5, Western Sydney Wanderers,Australia
+6,New Zealand,6, Angel City,United
+7,New Zealand,7, HB Køge,Denmark
+8,New Zealand,8, Arizona State Sun Devils,United
+9,New Zealand,9, Christchurch United,New
+10,New Zealand,10,Scotland Celtic,Scotland
+11,New Zealand,11, Wellington Phoenix,New
+12,New Zealand,12, Brighton & Hove Albion,England
+13,New Zealand,13, Melbourne City,Australia
+14,New Zealand,14, Wellington Phoenix,New
+15,New Zealand,15,Finland Åland United,Finland
+16,New Zealand,16, Melbourne City,Australia
+17,New Zealand,17, Canberra United,Australia
+18,New Zealand,18, Perth Glory,Australia
+19,New Zealand,19, Brisbane Roar,Australia
+20,New Zealand,20,Scotland Rangers,Scotland
+21,New Zealand,21, Wellington Phoenix,New
+22,New Zealand,22, Aston Villa,England
+0,Switzerland,0, Real Betis,Spain
+1,Switzerland,1, Zürich,Switzerland
+2,Switzerland,2, Bayer Leverkusen,Germany
+3,Switzerland,3, Servette,Switzerland
+4,Switzerland,4, Arsenal,England
+5,Switzerland,5, Eintracht Frankfurt,Germany
+6,Switzerland,6, Bayer Leverkusen,Germany
+7,Switzerland,7, Zürich,Switzerland
+8,Switzerland,8, Barcelona,Spain
+9,Switzerland,9, Paris Saint-Germain,France
+10,Switzerland,10, Servette,Switzerland
+11,Switzerland,11, Levante,Spain
+12,Switzerland,12, Arsenal,England
+13,Switzerland,13, Zürich,Switzerland
+14,Switzerland,14, 1899 Hoffenheim,Germany
+15,Switzerland,15, Servette,Switzerland
+16,Switzerland,16, Zürich,Switzerland
+17,Switzerland,17, Levante,Spain
+18,Switzerland,18, Paris FC,France
+19,Switzerland,19, Zürich,Switzerland
+20,Switzerland,20, Zürich,Switzerland
+21,Switzerland,21, Dijon,France
+22,Switzerland,22, Aston Villa,England
+0,Philippines,0, So Cal Union,United
+1,Philippines,1, Blacktown City,Australia
+2,Philippines,2, IFK Kalmar,Sweden
+3,Philippines,3, Western United,Australia
+4,Philippines,4, Kaya–Iloilo,Philippines
+5,Philippines,5,Iceland Þór/KA,Iceland
+6,Philippines,6, Western Sydney Wanderers,Australia
+7,Philippines,7, KIL/Hemne,Norway
+8,Philippines,8, West Virginia Mountaineers,United
+9,Philippines,9, So Cal Union,United
+10,Philippines,10, Mt Druitt Town Rangers,Australia
+11,Philippines,11,Unattached,Unattached
+12,Philippines,12, Western United,Australia
+13,Philippines,13, Stabæk,Norway
+14,Philippines,14, Blacktown Spartans,Australia
+15,Philippines,15,Unattached,Unattached
+16,Philippines,16, Pacific Northwest SC,United
+17,Philippines,17, Los Angeles Breakers,United
+18,Philippines,18,Iceland Þór/KA,Iceland
+19,Philippines,19,Serbia Red Star Belgrade,Serbia
+20,Philippines,20, Piteå,Sweden
+21,Philippines,21, Central Coast Mariners,Australia
+22,Philippines,22, Santos,Brazil
+0,Australia,0, Brighton & Hove Albion,England
+1,Australia,1, Leicester City,England
+2,Australia,2, BK Häcken,Sweden
+3,Australia,3, Vittsjö GIK,Sweden
+4,Australia,4, Sydney FC,Australia
+5,Australia,5, Everton,England
+6,Australia,6, Arsenal,England
+7,Australia,7, Racing Louisville,United
+8,Australia,8, Arsenal,England
+9,Australia,9, San Diego Wave,United
+10,Australia,10, Manchester City,England
+11,Australia,11, Rosengård,Sweden
+12,Australia,12, Brann,Norway
+13,Australia,13, Manchester City,England
+14,Australia,14, Western Sydney Wanderers,Australia
+15,Australia,15, Manchester City,England
+16,Australia,16, Tottenham Hotspur,England
+17,Australia,17, West Ham United,England
+18,Australia,18, Vittsjö GIK,Sweden
+19,Australia,19, Chelsea,England
+20,Australia,20, Lyon,France
+21,Australia,21, Vittsjö GIK,Sweden
+22,Australia,22, Hammarby IF,Sweden
+0,Canada,0, San Diego Wave,United
+1,Canada,1, Houston Dash,United
+2,Canada,2, Chelsea,England
+3,Canada,3, Tottenham Hotspur,England
+4,Canada,4, OL Reign,United
+5,Canada,5, Reading,England
+6,Canada,6, Juventus,Italy
+7,Canada,7, Manchester United,England
+8,Canada,8, OL Reign,United
+9,Canada,9, Paris Saint-Germain,France
+10,Canada,10, Kristianstads DFF,Sweden
+11,Canada,11, Portland Thorns,United
+12,Canada,12, Houston Dash,United
+13,Canada,13, Lyon,France
+14,Canada,14, Houston Dash,United
+15,Canada,15, Washington Spirit,United
+16,Canada,16, Chelsea,England
+17,Canada,17, Arsenal,England
+18,Canada,18, Manchester United,England
+19,Canada,19, Benfica,Portugal
+20,Canada,20, USC Trojans,United
+21,Canada,21, Torreense,Portugal
+22,Canada,22, Penn State Nittany Lions,United
+0,Nigeria,0,Turkey Hakkarigücü Spor,Turkey
+1,Nigeria,1,unattached,unattached
+2,Nigeria,2, Alavés,Spain
+3,Nigeria,3,Turkey Beşiktaş,Turkey
+4,Nigeria,4, Abia Angels,Nigeria
+5,Nigeria,5, NJ/NY Gotham FC,United
+6,Nigeria,6, Sevilla,Spain
+7,Nigeria,7, Barcelona,Spain
+8,Nigeria,8, Wuhan Jianghan University,China
+9,Nigeria,9, Benfica,Portugal
+10,Nigeria,10, Granadilla Tenerife,Spain
+11,Nigeria,11, Racing Louisville,United
+12,Nigeria,12, Rivers Angels,Nigeria
+13,Nigeria,13, Reims,France
+14,Nigeria,14, Atlético Madrid,Spain
+15,Nigeria,15, Paris FC,France
+16,Nigeria,16,Russia CSKA Moscow,Russia
+17,Nigeria,17, Rosengård,Sweden
+18,Nigeria,18, Florida State Seminoles,United
+19,Nigeria,19, Reims,France
+20,Nigeria,20, Saint-Étienne,France
+21,Nigeria,21, Houston Dash,United
+22,Nigeria,22, Saint-Étienne,France
+0,Ireland,0, Everton,England
+1,Ireland,1,Scotland Celtic,Scotland
+2,Ireland,2, Bristol City,England
+3,Ireland,3, Birmingham City,England
+4,Ireland,4, Liverpool,England
+5,Ireland,5, Brighton & Hove Albion,England
+6,Ireland,6, Reading,England
+7,Ireland,7, Aston Villa,England
+8,Ireland,8, Turbine Potsdam,Germany
+9,Ireland,9, North Carolina Courage,United
+10,Ireland,10, Arsenal,England
+11,Ireland,11, London City Lionesses,England
+12,Ireland,12,Republic of  Shamrock Rovers,Republic
+13,Ireland,13, Florida State Seminoles,United
+14,Ireland,14, Birmingham City,England
+15,Ireland,15, Reading,England
+16,Ireland,16, NJ/NY Gotham FC,United
+17,Ireland,17, London City Lionesses,England
+18,Ireland,18,Republic of  Shamrock Rovers,Republic
+19,Ireland,19, Washington Spirit,United
+20,Ireland,20,Scotland Hearts,Scotland
+21,Ireland,21, West Ham United,England
+22,Ireland,22, Brighton & Hove Albion,England
+0,Costa Rica,0, UCF Knights,United
+1,Costa Rica,1,Iceland Þór/KA,Iceland
+2,Costa Rica,2, Alajuelense,Costa
+3,Costa Rica,3, Saprissa,Costa
+4,Costa Rica,4,Mexico Monterrey,Mexico
+5,Costa Rica,5, Independiente Santa Fe,Colombia
+6,Costa Rica,6, Bordeaux,France
+7,Costa Rica,7, Saprissa,Costa
+8,Costa Rica,8,Mexico Monterrey,Mexico
+9,Costa Rica,9, Saprissa,Costa
+10,Costa Rica,10, Portland Thorns,United
+11,Costa Rica,11, Saprissa,Costa
+12,Costa Rica,12, Asheville City,United
+13,Costa Rica,13,Scotland Glasgow City,Scotland
+14,Costa Rica,14, Sporting,Costa
+15,Costa Rica,15, Saprissa,Costa
+16,Costa Rica,16,Mexico Santos Laguna,Mexico
+17,Costa Rica,17, Saprissa,Costa
+18,Costa Rica,18, Alajuelense,Costa
+19,Costa Rica,19, Alajuelense,Costa
+20,Costa Rica,20, Alajuelense,Costa
+21,Costa Rica,21, Saprissa,Costa
+22,Costa Rica,22, Sporting,Costa
+0,Japan,0, INAC Kobe Leonessa,Japan
+1,Japan,1, West Ham United,England
+2,Japan,2, Roma,Italy
+3,Japan,3, Bayern Munich,Germany
+4,Japan,4, INAC Kobe Leonessa,Japan
+5,Japan,5, Portland Thorns,United
+6,Japan,6, MyNavi Sendai,Japan
+7,Japan,7, Urawa Reds,Japan
+8,Japan,8, Tokyo Verdy Beleza,Japan
+9,Japan,9, Liverpool,England
+10,Japan,10, INAC Kobe Leonessa,Japan
+11,Japan,11, Urawa Reds,Japan
+12,Japan,12, Angel City,United
+13,Japan,13, Manchester City,England
+14,Japan,14, Tokyo Verdy Beleza,Japan
+15,Japan,15, West Ham United,England
+16,Japan,16, Urawa Reds,Japan
+17,Japan,17, Tokyo Verdy Beleza,Japan
+18,Japan,18, INAC Kobe Leonessa,Japan
+19,Japan,19, Hammarby IF,Sweden
+20,Japan,20, Albirex Niigata,Japan
+21,Japan,21, JEF United Chiba,Japan
+22,Japan,22, Urawa Reds,Japan
+0,Spain,0, Real Madrid,Spain
+1,Spain,1, Manchester United,England
+2,Spain,2, Real Madrid,Spain
+3,Spain,3, Barcelona,Spain
+4,Spain,4, Real Madrid,Spain
+5,Spain,5, Barcelona,Spain
+6,Spain,6, Atlético Madrid,Spain
+7,Spain,7, Barcelona,Spain
+8,Spain,8, Real Madrid,Spain
+9,Spain,9,Mexico Pachuca,Mexico
+10,Spain,10, Barcelona,Spain
+11,Spain,11, Athletic Bilbao,Spain
+12,Spain,12, Valencia,Spain
+13,Spain,13, Barcelona,Spain
+14,Spain,14, Atlético Madrid,Spain
+15,Spain,15, Barcelona,Spain
+16,Spain,16, Levante,Spain
+17,Spain,17, Barcelona,Spain
+18,Spain,18, Real Madrid,Spain
+19,Spain,19, Real Madrid,Spain
+20,Spain,20, Real Madrid,Spain
+21,Spain,21, Real Madrid,Spain
+22,Spain,22, Barcelona,Spain
+0,Zambia,0,Kazakhstan Tomiris-Turan,Kazakhstan
+1,Zambia,1, YASA,Zambia
+2,Zambia,2, Green Buffaloes,Zambia
+3,Zambia,3, Red Arrows,Zambia
+4,Zambia,4, Red Arrows,Zambia
+5,Zambia,5, Red Arrows,Zambia
+6,Zambia,6, Red Arrows,Zambia
+7,Zambia,7, Shanghai Shengli,China
+8,Zambia,8, Zaragoza CFF,Spain
+9,Zambia,9, Elite Ladies,Zambia
+10,Zambia,10, Shanghai Shengli,China
+11,Zambia,11, ZISD Women,Zambia
+12,Zambia,12,Kazakhstan BIIK Shymkent,Kazakhstan
+13,Zambia,13,Kazakhstan BIIK Shymkent,Kazakhstan
+14,Zambia,14, Green Buffaloes,Zambia
+15,Zambia,15, ZESCO Ndola Girls,Zambia
+16,Zambia,16, Madrid CFF,Spain
+17,Zambia,17, Nkwazi Queens,Zambia
+18,Zambia,18, Elite Ladies,Zambia
+19,Zambia,19,Kazakhstan BIIK Shymkent,Kazakhstan
+20,Zambia,20, ZESCO Ndola Girls,Zambia
+21,Zambia,21, BUSA,Zambia
+22,Zambia,22, ZESCO Ndola Girls,Zambia
+0,China,0, Shanghai Shengli,China
+1,China,1, Paris Saint-Germain,France
+2,China,2, Jiangsu,China
+3,China,3, Shanghai Shengli,China
+4,China,4, Wuhan Jianghan University,China
+5,China,5, Shanghai Shengli,China
+6,China,6, Racing Louisville,United
+7,China,7, Wuhan Jianghan University,China
+8,China,8,Scotland Celtic,Scotland
+9,China,9, Wuhan Jianghan University,China
+10,China,10, Wuhan Jianghan University,China
+11,China,11, Jiangsu,China
+12,China,12, Levante Las Planas,Spain
+13,China,13, Wuhan Jianghan University,China
+14,China,14, Meizhou Huijun,China
+15,China,15, Wuhan Jianghan University,China
+16,China,16, Canberra United,Australia
+17,China,17, Shanghai Shengli,China
+18,China,18, Grasshoppers,Switzerland
+19,China,19, Shanghai Shengli,China
+20,China,20, Wuhan Jianghan University,China
+21,China,21, Beijing,China
+22,China,22, Changchun Dazhong Zhuoyue,China
+0,Denmark,0, Rosenborg,Norway
+1,Denmark,1, Harvard Crimson,United
+2,Denmark,2, Vålerenga,Norway
+3,Denmark,3, Everton,England
+4,Denmark,4, Hammarby IF,Sweden
+5,Denmark,5, Everton,England
+6,Denmark,6, Reading,England
+7,Denmark,7, West Ham United,England
+8,Denmark,8, Paris Saint-Germain,France
+9,Denmark,9, Chelsea,England
+10,Denmark,10, Everton,England
+11,Denmark,11, Arsenal,England
+12,Denmark,12, AC Milan,Italy
+13,Denmark,13, Everton,England
+14,Denmark,14, Inter Milan,Italy
+15,Denmark,15, Brøndby,Denmark
+16,Denmark,16, North Carolina Courage,United
+17,Denmark,17, Montpellier,France
+18,Denmark,18, Vålerenga,Norway
+19,Denmark,19, Lyon,France
+20,Denmark,20, North Carolina Courage,United
+21,Denmark,21, FC Thy-Thisted Q,Denmark
+22,Denmark,22, Real Madrid,Spain
+0,England,0, Manchester United,England
+1,England,1, Barcelona,Spain
+2,England,2, Chelsea,England
+3,England,3, Barcelona,Spain
+4,England,4, Manchester City,England
+5,England,5, Chelsea,England
+6,England,6, Chelsea,England
+7,England,7, Bayern Munich,Germany
+8,England,8, Aston Villa,England
+9,England,9, Manchester United,England
+10,England,10, Manchester City,England
+11,England,11, Aston Villa,England
+12,England,12, Aston Villa,England
+13,England,13, Arsenal,England
+14,England,14, Manchester City,England
+15,England,15, Chelsea,England
+16,England,16, Manchester City,England
+17,England,17, Manchester City,England
+18,England,18, Tottenham Hotspur,England
+19,England,19, Manchester United,England
+20,England,20, Manchester City,England
+21,England,21, Brighton & Hove Albion,England
+22,England,22, Manchester United,England
+0,Haiti,0, Miami City,United
+1,Haiti,1, Grenoble,France
+2,Haiti,2, Grenoble,France
+3,Haiti,3, Brest,France
+4,Haiti,4, Grenoble,France
+5,Haiti,5, Reims,France
+6,Haiti,6, Fleury,France
+7,Haiti,7, Fordham Rams,United
+8,Haiti,8, Grenoble,France
+9,Haiti,9, Montpellier,France
+10,Haiti,10, Nantes,France
+11,Haiti,11, Little  FC,United
+12,Haiti,12, Brest,France
+13,Haiti,13, Exafoot,Haiti
+14,Haiti,14, Grenoble,France
+15,Haiti,15, George Mason Patriots,United
+16,Haiti,16,Russia Zenit St. Petersburg,Russia
+17,Haiti,17, Weston FC,United
+18,Haiti,18, Issy,France
+19,Haiti,19, Montpellier,France
+20,Haiti,20, Louisiana Ragin' Cajuns,United
+21,Haiti,21, Dijon,France
+22,Haiti,22, Georgetown Hoyas,United
+0,Netherlands,0, Twente,Netherlands
+1,Netherlands,1, VfL Wolfsburg,Germany
+2,Netherlands,2, Inter Milan,Italy
+3,Netherlands,3, AC Milan,Italy
+4,Netherlands,4, Atlético Madrid,Spain
+5,Netherlands,5, VfL Wolfsburg,Germany
+6,Netherlands,6, Juventus,Italy
+7,Netherlands,7, Ajax,Netherlands
+8,Netherlands,8, Everton,England
+9,Netherlands,9, Lyon,France
+10,Netherlands,10, Paris Saint-Germain,France
+11,Netherlands,11, Bayer Leverkusen,Germany
+12,Netherlands,12, Twente,Netherlands
+13,Netherlands,13, Paris Saint-Germain,France
+14,Netherlands,14, Twente,Netherlands
+15,Netherlands,15, Ajax,Netherlands
+16,Netherlands,16, Arsenal,England
+17,Netherlands,17, Manchester City,England
+18,Netherlands,18, Twente,Netherlands
+19,Netherlands,19, VfL Wolfsburg,Germany
+20,Netherlands,20, Lyon,France
+21,Netherlands,21, PSV Eindhoven,Netherlands
+22,Netherlands,22, Feyenoord,Netherlands
+0,Portugal,0, Servette,Switzerland
+1,Portugal,1, Benfica,Portugal
+2,Portugal,2, Benfica,Portugal
+3,Portugal,3, Benfica,Portugal
+4,Portugal,4, Parma,Italy
+5,Portugal,5, Real Sociedad,Spain
+6,Portugal,6, Braga,Portugal
+7,Portugal,7, Benfica,Portugal
+8,Portugal,8, Sporting CP,Portugal
+9,Portugal,9, Benfica,Portugal
+10,Portugal,10, Levante,Spain
+11,Portugal,11, Braga,Portugal
+12,Portugal,12, Alavés,Spain
+13,Portugal,13, Braga,Portugal
+14,Portugal,14, Benfica,Portugal
+15,Portugal,15, Sporting CP,Portugal
+16,Portugal,16, Benfica,Portugal
+17,Portugal,17, Braga,Portugal
+18,Portugal,18, Sevilla,Spain
+19,Portugal,19, Benfica,Portugal
+20,Portugal,20, Sporting CP,Portugal
+21,Portugal,21, Benfica,Portugal
+22,Portugal,22, Marítimo,Portugal
+0,United States,0, Chicago Red Stars,United
+1,United States,1, Washington Spirit,United
+2,United States,2, OL Reign,United
+3,United States,3, San Diego Wave,United
+4,United States,4, NJ/NY Gotham FC,United
+5,United States,5, NJ/NY Gotham FC,United
+6,United States,6, Angel City,United
+7,United States,7, Angel City,United
+8,United States,8, Racing Louisville,United
+9,United States,9, Lyon,France
+10,United States,10, Portland Thorns,United
+11,United States,11, OL Reign,United
+12,United States,12, San Diego Wave,United
+13,United States,13, OL Reign,United
+14,United States,14, OL Reign,United
+15,United States,15, OL Reign,United
+16,United States,16, Washington Spirit,United
+17,United States,17, North Carolina Courage,United
+18,United States,18, Portland Thorns,United
+19,United States,19, Washington Spirit,United
+20,United States,20, Washington Spirit,United
+21,United States,21, NJ/NY Gotham FC,United
+22,United States,22, North Carolina Courage,United
+0,Vietnam,0, Hanoi,Vietnam
+1,Vietnam,1, Than KSVN,Vietnam
+2,Vietnam,2, Ho Chi Minh City,Vietnam
+3,Vietnam,3, Ho Chi Minh City,Vietnam
+4,Vietnam,4, Hanoi,Vietnam
+5,Vietnam,5, Thai Nguyen T&T,Vietnam
+6,Vietnam,6, Phong Phu Ha Nam,Vietnam
+7,Vietnam,7, Ho Chi Minh City,Vietnam
+8,Vietnam,8, Länk Vilaverdense,Portugal
+9,Vietnam,9, Hanoi,Vietnam
+10,Vietnam,10, Hanoi,Vietnam
+11,Vietnam,11, Hanoi,Vietnam
+12,Vietnam,12, Than KSVN,Vietnam
+13,Vietnam,13, Ho Chi Minh City,Vietnam
+14,Vietnam,14, Than KSVN,Vietnam
+15,Vietnam,15, Than KSVN,Vietnam
+16,Vietnam,16, Ho Chi Minh City,Vietnam
+17,Vietnam,17, Hanoi,Vietnam
+18,Vietnam,18, Hanoi,Vietnam
+19,Vietnam,19, Than KSVN,Vietnam
+20,Vietnam,20, Hanoi,Vietnam
+21,Vietnam,21, Thai Nguyen T&T,Vietnam
+22,Vietnam,22, Ho Chi Minh City,Vietnam
+0,Brazil,0, Flamengo,Brazil
+1,Brazil,1, Levante,Spain
+2,Brazil,2, Real Madrid,Spain
+3,Brazil,3, Arsenal,England
+4,Brazil,4, Corinthians,Brazil
+5,Brazil,5, Corinthians,Brazil
+6,Brazil,6, Roma,Italy
+7,Brazil,7, Benfica,Portugal
+8,Brazil,8, Kansas City Current,United
+9,Brazil,9, Orlando Pride,United
+10,Brazil,10, Orlando Pride,United
+11,Brazil,11, Corinthians,Brazil
+12,Brazil,12, NJ/NY Gotham FC,United
+13,Brazil,13, Madrid CFF,Spain
+14,Brazil,14, Corinthians,Brazil
+15,Brazil,15, Palmeiras,Brazil
+16,Brazil,16, Racing Louisville,United
+17,Brazil,17, Barcelona,Spain
+18,Brazil,18, Madrid CFF,Spain
+19,Brazil,19, OL Reign,United
+20,Brazil,20, North Carolina Courage,United
+21,Brazil,21, Santos,Brazil
+22,Brazil,22, Madrid CFF,Spain
+0,France,0, Guingamp,France
+1,France,1, Montpellier,France
+2,France,2, Lyon,France
+3,France,3, Paris Saint-Germain,France
+4,France,4, Paris Saint-Germain,France
+5,France,5, Real Madrid,Spain
+6,France,6, Paris Saint-Germain,France
+7,France,7, Paris Saint-Germain,France
+8,France,8, Lyon,France
+9,France,9, Lyon,France
+10,France,10, Paris Saint-Germain,France
+11,France,11, Paris FC,France
+12,France,12, Lyon,France
+13,France,13, Manchester United,England
+14,France,14, Aston Villa,England
+15,France,15, Juventus,Italy
+16,France,16, Fleury,France
+17,France,17, West Ham United,England
+18,France,18, Real Madrid,Spain
+19,France,19, Manchester United,England
+20,France,20, Paris Saint-Germain,France
+21,France,21, Chelsea,England
+22,France,22, Lyon,France
+0,Jamaica,0,Czech Republic Sparta Prague,Czech
+1,Jamaica,1, Concorde Fire,United
+2,Jamaica,2,Scotland Hearts,Scotland
+3,Jamaica,3, Fleury,France
+4,Jamaica,4, Orlando Pride,United
+5,Jamaica,5, Houston Dash,United
+6,Jamaica,6, Ohio State Buckeyes,United
+7,Jamaica,7, Tottenham Hotspur,England
+8,Jamaica,8, Tennessee Volunteers,United
+9,Jamaica,9, Florida State Seminoles,United
+10,Jamaica,10, Manchester City,England
+11,Jamaica,11, Notre Dame Fighting Irish,United
+12,Jamaica,12, Tottenham Hotspur,England
+13,Jamaica,13, Issy,France
+14,Jamaica,14,Hungary Ferencváros,Hungary
+15,Jamaica,15, Crystal Palace,England
+16,Jamaica,16, Paris Saint-Germain,France
+17,Jamaica,17, Levante Las Planas,Spain
+18,Jamaica,18, Houston Dash,United
+19,Jamaica,19, London City Lionesses,England
+20,Jamaica,20, Chicago Red Stars,United
+21,Jamaica,21,Scotland Rangers,Scotland
+22,Jamaica,22, Washington State Cougars,United
+0,Panama,0, Independiente La Chorrera,Panama
+1,Panama,1, Jones County Bobcats,United
+2,Panama,2, América de Cali,Colombia
+3,Panama,3, Tauro,Panama
+4,Panama,4, Saprissa,Costa
+5,Panama,5, Tauro,Panama
+6,Panama,6, Tauro,Panama
+7,Panama,7, Tauro,Panama
+8,Panama,8, Sporting San José,Costa
+9,Panama,9,Mexico Pachuca,Mexico
+10,Panama,10, Alajuelense,Costa
+11,Panama,11, Tauro,Panama
+12,Panama,12, Washington Spirit,United
+13,Panama,13, Sporting San Miguelito,Panama
+14,Panama,14, Rayo Vallecano,Spain
+15,Panama,15, Sporting San Miguelito,Panama
+16,Panama,16, Tauro,Panama
+17,Panama,17, Plaza Amador,Panama
+18,Panama,18, Sporting San Miguelito,Panama
+19,Panama,19, Alhama,Spain
+20,Panama,20, Herediano,Costa
+21,Panama,21,Ecuador Ñañas,Ecuador
+22,Panama,22, Marítimo,Portugal
+0,Argentina,0, Rosario Central,Argentina
+1,Argentina,1, Santos,Brazil
+2,Argentina,2, Santos,Brazil
+3,Argentina,3, Boca Juniors,Argentina
+4,Argentina,4, Sporting Huelva,Spain
+5,Argentina,5, Madrid CFF,Spain
+6,Argentina,6, UAI Urquiza,Argentina
+7,Argentina,7, UAI Urquiza,Argentina
+8,Argentina,8, Red Bull Bragantino,Brazil
+9,Argentina,9, Parma,Italy
+10,Argentina,10, Palmeiras,Brazil
+11,Argentina,11, River Plate,Argentina
+12,Argentina,12,Mexico León,Mexico
+13,Argentina,13, Boca Juniors,Argentina
+14,Argentina,14, Madrid CFF,Spain
+15,Argentina,15, Palmeiras,Brazil
+16,Argentina,16,Chile Universidad de Concepción,Chile
+17,Argentina,17, Estudiantes (BA),Argentina
+18,Argentina,18, Orlando Pride,United
+19,Argentina,19, South Alabama Jaguars,United
+20,Argentina,20, Rosario Central,Argentina
+21,Argentina,21, Atlético Madrid,Spain
+22,Argentina,22, Huracán,Argentina
+0,Italy,0, AC Milan,Italy
+1,Italy,1, Fiorentina,Italy
+2,Italy,2, Sassuolo,Italy
+3,Italy,3, Roma,Italy
+4,Italy,4, Roma,Italy
+5,Italy,5, Roma,Italy
+6,Italy,6, Juventus,Italy
+7,Italy,7, Juventus,Italy
+8,Italy,8, Roma,Italy
+9,Italy,9, Juventus,Italy
+10,Italy,10, Roma,Italy
+11,Italy,11, Fiorentina,Italy
+12,Italy,12, Roma,Italy
+13,Italy,13, Como,Italy
+14,Italy,14, Roma,Italy
+15,Italy,15, Barcelona,Spain
+16,Italy,16, Juventus,Italy
+17,Italy,17, Juventus,Italy
+18,Italy,18, Juventus,Italy
+19,Italy,19, Roma,Italy
+20,Italy,20, Juventus,Italy
+21,Italy,21, Inter Milan,Italy
+22,Italy,22, Juventus,Italy
+0,South Africa,0, JVW,South
+1,South Africa,1, Mamelodi Sundowns,South
+2,South Africa,2, UWC,South
+3,South Africa,3, Eibar,Spain
+4,South Africa,4, UWC,South
+5,South Africa,5,Mexico Tigres UANL,Mexico
+6,South Africa,6, Mamelodi Sundowns,South
+7,South Africa,7, Sejong Sportstoto,South
+8,South Africa,8, JVW,South
+9,South Africa,9,Scotland Glasgow City,Scotland
+10,South Africa,10, Racing Louisville,United
+11,South Africa,11,Mexico Monterrey,Mexico
+12,South Africa,12, Mamelodi Sundowns,South
+13,South Africa,13, Mamelodi Sundowns,South
+14,South Africa,14, Sassuolo,Italy
+15,South Africa,15, Mamelodi Sundowns,South
+16,South Africa,16, Mamelodi Sundowns,South
+17,South Africa,17, UWC,South
+18,South Africa,18, UWC,South
+19,South Africa,19, JVW,South
+20,South Africa,20, Royal AM,South
+21,South Africa,21, TS Galaxy,South
+22,South Africa,22, University of Pretoria,South
+0,Sweden,0, Chelsea,England
+1,Sweden,1, Hammarby IF,Sweden
+2,Sweden,2, Juventus,Italy
+3,Sweden,3, Linköping FC,Sweden
+4,Sweden,4, BK Häcken,Sweden
+5,Sweden,5, Chelsea,England
+6,Sweden,6, Hammarby IF,Sweden
+7,Sweden,7, Arsenal,England
+8,Sweden,8, AC Milan,Italy
+9,Sweden,9, San Diego Wave,United
+10,Sweden,10, Arsenal,England
+11,Sweden,11, BK Häcken,Sweden
+12,Sweden,12, Paris Saint-Germain,France
+13,Sweden,13, Everton,England
+14,Sweden,14, VfL Wolfsburg,Germany
+15,Sweden,15, Manchester City,England
+16,Sweden,16, Rosengård,Sweden
+17,Sweden,17, Barcelona,Spain
+18,Sweden,18, Chelsea,England
+19,Sweden,19, Everton,England
+20,Sweden,20, Örebro,Sweden
+21,Sweden,21, Rosengård,Sweden
+22,Sweden,22, BK Häcken,Sweden
+0,Colombia,0, Avaí,Brazil
+1,Colombia,1, Real Sociedad,Spain
+2,Colombia,2, América de Cali,Colombia
+3,Colombia,3, América de Cali,Colombia
+4,Colombia,4, Real Brasília,Brazil
+5,Colombia,5, Atlético Nacional,Colombia
+6,Colombia,6, Independiente Santa Fe,Colombia
+7,Colombia,7, Logroño,Spain
+8,Colombia,8, Levante,Spain
+9,Colombia,9, Atlético Madrid,Spain
+10,Colombia,10, América de Cali,Colombia
+11,Colombia,11, Independiente Medellín,Colombia
+12,Colombia,12, América de Cali,Colombia
+13,Colombia,13, Atlético Nacional,Colombia
+14,Colombia,14, Deportivo Pereira,Colombia
+15,Colombia,15, Real Brasília,Brazil
+16,Colombia,16, Junior,Colombia
+17,Colombia,17, Real Madrid,Spain
+18,Colombia,18, Atlético Mineiro,Brazil
+19,Colombia,19, Grêmio,Brazil
+20,Colombia,20, Valencia,Spain
+21,Colombia,21, Espanyol,Spain
+22,Colombia,22, América de Cali,Colombia
+0,Germany,0, VfL Wolfsburg,Germany
+1,Germany,1, 1899 Hoffenheim,Germany
+2,Germany,2, VfL Wolfsburg,Germany
+3,Germany,3, Eintracht Frankfurt,Germany
+4,Germany,4, Bayern Munich,Germany
+5,Germany,5, VfL Wolfsburg,Germany
+6,Germany,6, Bayern Munich,Germany
+7,Germany,7, Bayern Munich,Germany
+8,Germany,8, VfL Wolfsburg,Germany
+9,Germany,9, Eintracht Frankfurt,Germany
+10,Germany,10, VfL Wolfsburg,Germany
+11,Germany,11, Chelsea,England
+12,Germany,12, Lyon,France
+13,Germany,13, VfL Wolfsburg,Germany
+14,Germany,14, Eintracht Frankfurt,Germany
+15,Germany,15, Eintracht Frankfurt,Germany
+16,Germany,16, VfL Wolfsburg,Germany
+17,Germany,17, Chelsea,England
+18,Germany,18, Bayern Munich,Germany
+19,Germany,19, Bayern Munich,Germany
+20,Germany,20, Eintracht Frankfurt,Germany
+21,Germany,21, VfL Wolfsburg,Germany
+22,Germany,22, Eintracht Frankfurt,Germany
+0,Morocco,0, AS FAR,Morocco
+1,Morocco,1, AS FAR,Morocco
+2,Morocco,2, AS FAR,Morocco
+3,Morocco,3, Fleury,France
+4,Morocco,4, Lille,France
+5,Morocco,5, Servette,Switzerland
+6,Morocco,6, AS FAR,Morocco
+7,Morocco,7, Metz,France
+8,Morocco,8,Saudi Arabia Al Ahli,Saudi
+9,Morocco,9, AS FAR,Morocco
+10,Morocco,10, AS FAR,Morocco
+11,Morocco,11, CAK,Morocco
+12,Morocco,12, Napoli,Italy
+13,Morocco,13,Belgium Charleroi,Belgium
+14,Morocco,14, Europa,Spain
+15,Morocco,15, Guingamp,France
+16,Morocco,16, AS FAR,Morocco
+17,Morocco,17, Nantes,France
+18,Morocco,18,Belgium Club YLA,Belgium
+19,Morocco,19, RS Berkane,Morocco
+20,Morocco,20, Levante Las Planas,Spain
+21,Morocco,21, Cannes,France
+22,Morocco,22, Tottenham Hotspur,England
+0,South Korea,0, BK Häcken,Sweden
+1,South Korea,1, Suwon FC,South
+2,South Korea,2, Incheon Hyundai Steel,South
+3,South Korea,3, Suwon FC,South
+4,South Korea,4, Suwon FC,South
+5,South Korea,5, Incheon Hyundai Steel,South
+6,South Korea,6, Incheon Hyundai Steel,South
+7,South Korea,7, Tottenham Hotspur,England
+8,South Korea,8, Brighton & Hove Albion,England
+9,South Korea,9, Suwon FC,South
+10,South Korea,10, Incheon Hyundai Steel,South
+11,South Korea,11, Suwon FC,South
+12,South Korea,12, Seoul WFC,South
+13,South Korea,13, Suwon FC,South
+14,South Korea,14, Hwacheon KSPO,South
+15,South Korea,15, Incheon Hyundai Steel,South
+16,South Korea,16, Madrid CFF,Spain
+17,South Korea,17, Incheon Hyundai Steel,South
+18,South Korea,18, Players Development Academy,United
+19,South Korea,19, Incheon Hyundai Steel,South
+20,South Korea,20, Seoul WFC,South
+21,South Korea,21, Uiduk University,South
+22,South Korea,22, Incheon Hyundai Steel,South
