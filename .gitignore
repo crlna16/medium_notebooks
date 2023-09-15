@@ -1,0 +1,7 @@
+friday_data_story/data
+friday_data_story/plots
+*.ipynb_checkpoints
+*.png
+*.svg
+*.xlsx
+*.csv
